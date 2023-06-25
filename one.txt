@@ -1,1 +1,2 @@
-Hi This is one
+Hi This is one --init add . commit git remote add origin <path> git push origin br1
+Hi this is direct commit without staging
